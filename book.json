@@ -1,0 +1,40 @@
+[
+
+    {
+        "id":101,
+        "title":"JavaScript",
+        "author":"Marjinyan",
+        "price":15000,
+        "photo":"https://media.licdn.com/dms/image/D4E22AQFSlaphsltKnA/feedshare-shrink_800/0/1693815106336?e=2147483647&v=beta&t=nJvwnjOTCnHYm6dpVzd0zqJCO0AvLMNJYGpuqwZj_Z4"
+    },
+    
+    {
+        "id":102,
+        "title":"You dont know JS",
+        "author":"Simpson",
+        "price":30000,
+        "photo":"https://m.media-amazon.com/images/I/81zWsOMWE4L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id":103,
+        "title":"Psychology",
+        "author":"DK",
+        "price":17000,
+        "photo":"https://m.media-amazon.com/images/I/81LDP+GDKVL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id":104,
+        "title":"Physics",
+        "author":"DK",
+        "price":14000,
+        "photo":"https://m.media-amazon.com/images/I/814VZlo2tXL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id":105,
+        "title":"Poetry",
+        "author":"DK",
+        "price":50000,
+        "photo":"https://m.media-amazon.com/images/I/91x4ie8LU4L._AC_UF1000,1000_QL80_.jpg"
+    }
+    
+]
